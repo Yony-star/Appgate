@@ -9,7 +9,7 @@ Project scope is to give a solution to Appgate Challenge. This App show how to m
 - [x] Use Security and CryptoKit Framewors: To keep passwords, Apple Keychain is the best practice for storing critical information.
 - [x] Use Core Data Framework: To keep Log, Apple Keychain is the best practice for storing no critical information and high volum of data.
 - [x] MVC as architectural pattern
-- [ ] SOLID Principles implementation:  Single responsability - to get create more maintainable, understandable, and flexible software all clasess.
+- [x] SOLID Principles implementation:  Single responsability - to get create more maintainable, understandable, and flexible software all clasess.
 - [x] Singleton pattrn to implement Logger functions.
 - [x] Autolayout UI implementation
 - [x] Unit Test REST API 
