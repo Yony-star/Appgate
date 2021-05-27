@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Logger.saveEventLog(eventLog:):Logger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventLog.event">
+            </PersistentString>
+            <PersistentString
+               value = "eventDate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewWillAppear(_:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CLLocationManager.locationServicesEnabled()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in TimeServiceAPI.fetchResources&lt;A&gt;(url:completion:):TimeServiceAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.locationManager(_:didUpdateLocations:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lastLat">
+            </PersistentString>
+            <PersistentString
+               value = "appgateSecurity.lastEvent.message">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Logger.loadEventLog():Logger.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String((data.value(forKey: &quot;timestamp&quot;)) ?? &quot;&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "data.value(forKey: &quot;timestamp&quot;)?? &quot;&quot;">
+            </PersistentString>
+            <PersistentString
+               value = "String(data.value(forKey: &quot;timestamp&quot;))">
+            </PersistentString>
+            <PersistentString
+               value = "EventLogList">
+            </PersistentString>
+            <PersistentString
+               value = "event1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.handleLoginButtonTap(sender:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "account.isValidPassword">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.securityCall(loginAction:account:password1:password2:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.logger.lastEventLog">
+            </PersistentString>
+            <PersistentString
+               value = "securityEventResult.eventCode">
+            </PersistentString>
+            <PersistentString
+               value = "self.latitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppgateUITests.testExample():AppgateUITests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.staticTexts">
+            </PersistentString>
+            <PersistentString
+               value = "labels.staticText">
+            </PersistentString>
+            <PersistentString
+               value = "app.staticTexts[&quot;Welcome&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in Logger.createEventLog(login:success:latitude:longitude:):Logger.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TimeServiceAPI.fetchResources&lt;A&gt;(url:completion:):TimeServiceAPI.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TimeServiceAPI.fetchTime(lat:lng:result:):TimeServiceAPI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;\(baseURL)username=\(username)&amp;style=\(style)&amp;formatted=\(formatted)&amp;lat=\(lat)&amp;lng=\(lng)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppgateLibrary.AuthSaveCredetials(login:password1:password2:):AppgateLibrary.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.event.message">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
