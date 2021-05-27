@@ -31,11 +31,6 @@ Project scope is to give a solution to Appgate Challenge. This App show how to m
 
 4. In Xcode go to the menu Debug / Simulate Location / AppgateTrip or press de icon to simulate GPS (Air plane) following the intructions in the app, select 'AppgateTrip' in order to activate Location Simulator in your Xcode
 
-#### Limitations of location simulation
-
-There are a few limitations when simulating locations using GPX files:
-No valid speed. CLLlocationinstances provided by CLLLocationManager do not provide valid a value in the speedproperty while using GPX files.
-This can be easily solved if we keep in a variable the previous location and the time we got it. Then when we get a new location, I calculate the speed using the differences of distances and times between the old and new location (speed = diff distances/ diff times).
 
 ## How to Improve the Next Version ?   VIPER Implementation as Pattern Design.
 
